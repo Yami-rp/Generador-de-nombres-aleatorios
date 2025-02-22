@@ -1,8 +1,8 @@
 import random
 
 # Listas predefinidas de nombres y apellidos
-nombres = ["Carlos", "Lucía", "Martín", "Sofía", "Fernando", "Valeria", "Javier", "Mariana"]
-apellidos = ["Gómez", "Fernández", "López", "Martínez", "Pérez", "Sánchez", "Rodríguez", "Torres"]
+nombres = ["Carolina", "Marcos", "Andrea", "Andres", "Gloria", "Fernando", "Lukas", "Kevin"]
+apellidos = ["Paz", "Mendez", "Mejía", "Cruz", "Pineda", "Mendez", "Rodríguez", "López"]
 
 def agregar_nombre():
     nuevo_nombre = input("Ingrese un nuevo nombre (o presione Enter para omitir): ").strip()
